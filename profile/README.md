@@ -209,7 +209,7 @@ Der IDPA Zeitplan August 2024 bis Dezember 2025 im Überblick
 | **Kalenderwoche**<br>***Datum*** | **Leitung IMS** | **Betreuerteams** | **Schülerteams** |
 |---|---|---|---|
 | **34 -- 38**<br>*17.08. -- 18.9.26* | Nimmt IDPA-Themen entgegen, erstellt Liste | Verfassen IDPA-Themen | |
-| **39 -- 45**<br>*21.09. -- 6.11.26* | Abgabe Themenliste<br>Klassen informieren über IDPA und Zeitplan<br>(Abgabetermin für KBW-Agenda melden) | | Teambildung<br>Bewerbung für zwei Themen<br>**bis Fr, 7.11.25 um 16 Uhr via** Intranet. |
+| **39 -- 45**<br>*21.09. -- 6.11.26* | Abgabe Themenliste<br>Klassen informieren über IDPA und Zeitplan<br>(Abgabetermin für KBW-Agenda melden) | | Teambildung<br>Bewerbung für zwei Themen<br>**bis Fr, 6.11.26 um 16 Uhr via** Intranet. |
 | **46 -- 48**<br>*9.11. -- 27.11.26* | Zuteilung Teams und Themen | Ev. Mitsprache bei Themenzuteilung | |
 | **49 -- 51**<br>*30.11. -- 18.12.26* | | Erstkontakt mit Schülerteam | Erste Kontaktaufnahme mit Betreuungsteam |
 | **01 - 03**<br>*5.01 -- 22.01.27* | Eingabe Projektaufträge fordern und auf Vollständigkeit kontrollieren | Abgabe Kopie des Projektauftrages an Sophie Német | |
