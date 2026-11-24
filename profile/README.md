@@ -208,17 +208,17 @@ Fachgespräch) und werden vor den betreuenden Lehrpersonen gehalten.
 Der IDPA Zeitplan August 2024 bis Dezember 2025 im Überblick
 | **Kalenderwoche**<br>***Datum*** | **Leitung IMS** | **Betreuerteams** | **Schülerteams** |
 |---|---|---|---|
-| **34 -- 39**<br>*19.08. -- 26.9.25* | Nimmt IDPA-Themen entgegen, erstellt Liste | Verfassen IDPA-Themen | |
-| **43 -- 45**<br>*20.10. -- 7.11.25* | Abgabe Themenliste<br>Klassen informieren über IDPA und Zeitplan<br>(Abgabetermin für KBW-Agenda melden) | | Teambildung<br>Bewerbung für zwei Themen<br>**bis Fr, 7.11.25 um 16 Uhr via** Intranet. |
-| **46 -- 48**<br>*10.11. -- 28.11.25* | Zuteilung Teams und Themen | Ev. Mitsprache bei Themenzuteilung | |
-| **49 -- 51**<br>*1.12 -- 19.12.25* | | Erstkontakt mit Schülerteam | Erste Kontaktaufnahme mit Betreuungsteam |
-| **02 - 03**<br>*5.01 -- 16.01.26* | Eingabe Projektaufträge fordern und auf Vollständigkeit kontrollieren | Abgabe Kopie des Projektauftrages an Sophie Német | |
-| **04 -- 16**<br>*19.01. -- 14.04.26* | | Führen mind. zwei Betreuungsgespräche (Teil der Prozessbewertung) | **Beginn Gruppenarbeit**<br>und nehmen an mind. zwei Betreuungsgesprächen teil |
-| **16**<br>*Do, 16.04.26*<br>*7.30 - 11.30 Uhr* | Einzug Arbeiten, Weitergabe an Betreuerteam | | **Abgabe Gruppenarbeiten im Sekretariat**<br>7.30 - 11.30 Uhr |
-| **17 -- 44**<br>*20.04. -- 30.10.26* | Präsentationsplan erstellen<br>(Termin für KBW-Agenda melden) | Beurteilen Gruppenarbeit | Bereiten sich auf Präsentation vor |
-| **46**<br>*Do, 12.11.26* | | Bewerten Präsentation (Kolloquium) | **Präsentation 25'** |
-| **46 -- 48**<br>*12.11 -- 27.11.26* | | Verfassen schriftliche Kurzbewertung; Rück­gabe Arbeiten: 1 Exemplar an Schülerteam, 1 Exemplar Sekretariat | Noteneröffnung und schriftliche Kurzbewertung |
-| **49 -- 50**<br>*30.11. -- 11.12.26* | Sekretariat: Erfasst Note für BM-Zeugnis und archiviert 1 Exemplar der Arbeiten | | |
+| **34 -- 38**<br>*17.08. -- 18.9.26* | Nimmt IDPA-Themen entgegen, erstellt Liste | Verfassen IDPA-Themen | |
+| **39 -- 45**<br>*21.09. -- 6.11.26* | Abgabe Themenliste<br>Klassen informieren über IDPA und Zeitplan<br>(Abgabetermin für KBW-Agenda melden) | | Teambildung<br>Bewerbung für zwei Themen<br>**bis Fr, 7.11.25 um 16 Uhr via** Intranet. |
+| **46 -- 48**<br>*9.11. -- 27.11.26* | Zuteilung Teams und Themen | Ev. Mitsprache bei Themenzuteilung | |
+| **49 -- 51**<br>*30.11. -- 18.12.26* | | Erstkontakt mit Schülerteam | Erste Kontaktaufnahme mit Betreuungsteam |
+| **01 - 03**<br>*5.01 -- 22.01.27* | Eingabe Projektaufträge fordern und auf Vollständigkeit kontrollieren | Abgabe Kopie des Projektauftrages an Sophie Német | |
+| **04 -- 16**<br>*25.01. -- 22.04.27* | | Führen mind. zwei Betreuungsgespräche (Teil der Prozessbewertung) | **Beginn Gruppenarbeit**<br>und nehmen an mind. zwei Betreuungsgesprächen teil |
+| **16**<br>*Do, 22.04.27*<br>*7.30 - 11.30 Uhr* | Einzug Arbeiten, Weitergabe an Betreuerteam | | **Abgabe Gruppenarbeiten im Sekretariat**<br>7.30 - 11.30 Uhr |
+| **17 -- 44**<br>*26.04. -- 3.11.27* | Präsentationsplan erstellen<br>(Termin für KBW-Agenda melden) | Beurteilen Gruppenarbeit | Bereiten sich auf Präsentation vor |
+| **44**<br>*Do, 4.11.27* | | Bewerten Präsentation (Kolloquium) | **Präsentation 25'** |
+| **45 -- 47**<br>*8.11 -- 26.11.27* | | Verfassen schriftliche Kurzbewertung; Rück­gabe Arbeiten: 1 Exemplar an Schülerteam, 1 Exemplar Sekretariat | Noteneröffnung und schriftliche Kurzbewertung |
+| **48 -- 50**<br>*29.11. -- 17.12.27* | Sekretariat: Erfasst Note für BM-Zeugnis und archiviert 1 Exemplar der Arbeiten | | |
 
 ## Elemente der IDPA
 
